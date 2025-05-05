@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mcapp/static/css/main.c2e7cb02.css",
+    "main.js": "/Mcapp/static/js/main.c8d585e4.js",
+    "index.html": "/Mcapp/index.html",
+    "main.c2e7cb02.css.map": "/Mcapp/static/css/main.c2e7cb02.css.map",
+    "main.c8d585e4.js.map": "/Mcapp/static/js/main.c8d585e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2e7cb02.css",
+    "static/js/main.c8d585e4.js"
+  ]
+}
